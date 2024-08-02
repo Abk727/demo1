@@ -1,0 +1,52 @@
+```json
+{
+  "shortDescription": "Test your animal knowledge!",
+  "questions": [
+    {
+      "question": "What is a group of crows called?",
+      "answers": ["Murder", "Herd", "Flock"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a baby kangaroo called?",
+      "answers": ["Joey", "Pup", "Colt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the largest land mammal?",
+      "answers": ["Elephant", "Giraffe", "Hippo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "answers": ["Cheetah", "Lion", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the smallest mammal?",
+      "answers": ["Bat", "Mouse", "Shrew"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the largest ocean animal?",
+      "answers": ["Whale", "Shark", "Squid"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the most poisonous animal?",
+      "answers": ["Snake", "Spider", "Fish"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the only mammal that can fly?",
+      "answers": ["Bat", "Squirrel", "Bird"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the national animal of India?",
+      "answers": ["Tiger", "Lion", "Elephant"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the national animal of the United States?",
+      "answers": ["Eagle", "Hawk", "Falcon"],
